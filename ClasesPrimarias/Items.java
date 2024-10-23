@@ -8,6 +8,7 @@ public class Items
     int a = 1;
     String val = "ola";
     int b = 2;
+    String x = "ayuda";
     
     public Items(String nombre, double efecto, String descripcion){
         this.nombre = nombre;

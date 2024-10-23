@@ -6,8 +6,6 @@ public class Items
     double efecto;
     String descripcion;
     int a = 1;
-
-    int b = 2;
     public Items(String nombre, double efecto, String descripcion){
         this.nombre = nombre;
         this.efecto = efecto;

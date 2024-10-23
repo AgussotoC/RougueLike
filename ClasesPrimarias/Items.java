@@ -6,6 +6,7 @@ public class Items
     double efecto;
     String descripcion;
     int a = 1;
+    int j = 2;
     String val = "ola";
     
     public Items(String nombre, double efecto, String descripcion){

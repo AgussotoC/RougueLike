@@ -5,6 +5,7 @@ public class Items
     String nombre;
     double efecto;
     String descripcion;
+    int num;
     
     public Items(String nombre, double efecto, String descripcion){
         this.nombre = nombre;
